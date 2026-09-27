@@ -1,0 +1,59 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 80px
+}
+
+.header-nav-items{
+    display: flex;
+    font-size: 18px;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header-nav-link{
+    text-decoration: none;
+    color: #224F34;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 100px
+}
+
+.hero-text{
+    color: #224F34;
+    width: 45%;
+}
+.hero-text p{
+    color: #267D49;
+
+}
+
+.girl{
+    width: 450px;
+    height: auto;
+}
+
+.hero-text h1{
+    font-size: 60px;
+    line-height: 1.1;
+}
+
+.hero-text p{
+    font-size: 18px;
+    line-height: 1.7;
+    width: 420px;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+
+
